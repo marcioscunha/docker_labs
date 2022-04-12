@@ -1,0 +1,10 @@
+.dockerignore
+.git
+.gitignore
+npm-debug.log
+docker-compose*
+README.md
+LICENSE
+.vscode
+/app-exemplo
+docker.txt
